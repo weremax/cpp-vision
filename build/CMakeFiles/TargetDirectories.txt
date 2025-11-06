@@ -1,0 +1,3 @@
+/home/weremax/Projects/C++/vision/build/CMakeFiles/main.dir
+/home/weremax/Projects/C++/vision/build/CMakeFiles/edit_cache.dir
+/home/weremax/Projects/C++/vision/build/CMakeFiles/rebuild_cache.dir
